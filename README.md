@@ -12,3 +12,7 @@
   <img align="center" alt="Gio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
+
+   <div>
+   <a href="0x1f21b3b2269c0b2a9307f16bc27bcf9a637fc4ea" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"></a>
+   </div>
