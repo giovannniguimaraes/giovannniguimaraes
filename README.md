@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giovannniguimaraes
+   👋 Hi, I’m @giovannniguimaraes
 
 <div align="center">
   <a href="https://github.com/giovannniguimaraes">
