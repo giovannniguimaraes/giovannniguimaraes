@@ -15,6 +15,6 @@
 
   <div align='left'><br>
      <a href="https://www.linkedin.com/in/giovanni-guimar%C3%A3es-04385822b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-     <a href="0x1f21b3b2269c0b2a9307f16bc27bcf9a637fc4ea" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+     <a href="mailto:giovanniguimaraesgfg@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
     
   </div>
